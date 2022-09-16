@@ -1,14 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
 body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-size: 18px;
+    font-family: 'Outfit', sans-serif;
 }
 .colorWhite {
     color: hsl(0, 0%, 100%);
-}
-.colorCyan {
-    color: ;
 }
 .mainBg {
     background-color: hsl(217, 54%, 11%);
